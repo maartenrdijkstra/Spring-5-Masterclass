@@ -1,2 +1,4 @@
-package academy.learnprogramming.bootdemo.controller;public class DemoController {
+package academy.learnprogramming.bootdemo.controller;
+
+public class DemoController {
 }
