@@ -1,10 +1,10 @@
-package academy.learnprogramming.bootdemo;
+package academy.learnprogramming.gradledemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BootDemoApplicationTests {
+class GradleDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
